@@ -20,11 +20,9 @@ Adicione o autoload.php do composer no seu arquivo PHP.
 require_once 'vendor/autoload.php';  
 ```
 
-### Builds
+### Métodos
 
-Dentro da pasta `build/` existe dois arquivos: `ufs.json` e `cidades.json`. Eles foram gerados no dia 20/08/2015
-
-### Buscar UFs
+##### Buscar UFs
 
 Use o método `getUfs()` para retornar a lista de UFs com seus respecivos códigos
 
@@ -32,7 +30,7 @@ Use o método `getUfs()` para retornar a lista de UFs com seus respecivos códig
 $ufs = JansenFelipe\CidadesGratis\Cidades::getUfs();
 ```
 
-### Buscar Cidades
+##### Buscar Cidades
 
 Use o método `getCidades()` para retornar a lista de Cidades com seus respecivos códigos de uma determinada UF
 
@@ -40,13 +38,17 @@ Use o método `getCidades()` para retornar a lista de Cidades com seus respecivo
 $cidades = JansenFelipe\CidadesGratis\Cidades::getCidades(31);
 ```
 
-### Buscar detalhes de uma cidade
+##### Buscar detalhes de uma cidade
 
 Use o método `getCidadeDetalhes()` para retornar a detalhes de uma determinada cidade
 
 ```php
 $detalhes = JansenFelipe\CidadesGratis\getCidadeDetalhes::getCidadeDetalhes(310620);
 ```
+
+### Builds
+
+Dentro da pasta `build/` existe dois arquivos: `ufs.json` e `cidades.json`. Eles foram gerados no dia 20/08/2015
 
 ### License
 
