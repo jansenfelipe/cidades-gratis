@@ -25,7 +25,7 @@
         }
     },
      "suggest": {
-        "jansenfelipe/cpf-gratis": "Permite consulta de CNPJ no site da receita",
+        "jansenfelipe/cnpj-gratis": "Permite consulta de CNPJ no site da receita",
         "jansenfelipe/cpf-gratis": "Permite consulta de CPF no site da receita",
         "jansenfelipe/cep-gratis": "Permite consulta de CEP no site dos Correios",
         "jansenfelipe/nfephp-serialize": "Transforme NFe(xml) em objetos PHP e vice-versa"
