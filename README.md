@@ -20,6 +20,10 @@ Adicione o autoload.php do composer no seu arquivo PHP.
 require_once 'vendor/autoload.php';  
 ```
 
+### Builds
+
+Dentro da pasta `build/` existe dois arquivos: `ufs.json` e `cidades.json`. Eles foram gerados no dia 20/08/2015
+
 ### Buscar UFs
 
 Use o método `getUfs()` para retornar a lista de UFs com seus respecivos códigos
