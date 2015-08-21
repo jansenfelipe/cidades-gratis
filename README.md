@@ -43,7 +43,7 @@ $cidades = JansenFelipe\CidadesGratis\Cidades::getCidades(31);
 Use o método `getCidadeDetalhes()` para retornar a detalhes de uma determinada cidade
 
 ```php
-$detalhes = JansenFelipe\CidadesGratis\getCidadeDetalhes::getCidadeDetalhes(310620);
+$detalhes = JansenFelipe\CidadesGratis\Cidades::getCidadeDetalhes(310620);
 ```
 
 ### Builds
