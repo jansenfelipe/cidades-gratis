@@ -2,7 +2,7 @@
 [![Latest Stable Version](https://poser.pugx.org/jansenfelipe/cidades-gratis/v/stable.svg)](https://packagist.org/packages/jansenfelipe/cidades-gratis) 
 [![Total Downloads](https://poser.pugx.org/jansenfelipe/cidades-gratis/downloads.svg)](https://packagist.org/packages/jansenfelipe/cidades-gratis) 
 [![Latest Unstable Version](https://poser.pugx.org/jansenfelipe/cidades-gratis/v/unstable.svg)](https://packagist.org/packages/jansenfelipe/cidades-gratis)
-[![MIT license](https://img.shields.io/dub/l/vibe-d.svg)](http://opensource.org/licenses/MIT)
+[![MIT license](https://poser.pugx.org/jansenfelipe/nfephp-serialize/license.svg)](http://opensource.org/licenses/MIT)
 
 Com esse pacote você poderá consultar, gratuitamente, Cidades diretamente no site do IBGE.
 
