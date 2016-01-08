@@ -50,6 +50,13 @@ $detalhes = JansenFelipe\CidadesGratis\Cidades::getCidadeDetalhes(310620);
 
 Dentro da pasta `build/` existe dois arquivos: `ufs.json` e `cidades.json`. Eles foram gerados no dia 20/08/2015
 
+### Gostou? Conheça também
+
+* [CnpjGratis](https://github.com/jansenfelipe/cnpj-gratis)
+* [CpfGratis](https://github.com/jansenfelipe/cpf-gratis)
+* [CepGratis](https://github.com/jansenfelipe/cep-gratis)
+* [NFePHPSerialize](https://github.com/jansenfelipe/nfephp-serialize)
+
 ### License
 
 The MIT License (MIT)
